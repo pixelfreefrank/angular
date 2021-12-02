@@ -1,0 +1,140 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Mark",
+      "lastName": "Sloan",
+      "city": "Manuelabury",
+      "zipCode": "85865",
+      "grade": "Plastic Surgeon"
+    },
+    {
+      "id": 4,
+      "firstName": "Marcella",
+      "lastName": "Nunez",
+      "city": "Colinton",
+      "zipCode": "25321-9453",
+      "grade": "Global Integration Architect"
+    },
+    {
+      "id": 7,
+      "firstName": "Carlos",
+      "lastName": "Graze",
+      "city": "Burleson",
+      "zipCode": "17008-1302",
+      "grade": "Senior Programmer"
+    },
+    {
+      "id": 10,
+      "firstName": "Tiara",
+      "lastName": "Gates",
+      "city": "East Woods",
+      "zipCode": "87419",
+      "grade": "District Assurance Planner"
+    },
+    {
+      "firstName": "Perry",
+      "lastName": "Lewis",
+      "city": "Plano",
+      "zipCode": "75203",
+      "grade": "Director",
+      "id": 11
+    },
+    {
+      "firstName": "Madonna",
+      "lastName": "Stelwart",
+      "city": "Peru",
+      "zipCode": "363868",
+      "grade": "Model",
+      "id": 13
+    },
+    {
+      "firstName": "Katy",
+      "lastName": "Perry",
+      "city": "Orlando",
+      "zipCode": "2839179",
+      "grade": "Singer",
+      "id": 14
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Jordan",
+      "city": "Mountain View",
+      "zipCode": "657999",
+      "grade": "Actor",
+      "id": 15
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Evans",
+      "city": "Los Angeles",
+      "zipCode": "546789",
+      "grade": "Actor",
+      "id": 16
+    },
+    {
+      "firstName": "Vidhya",
+      "lastName": "Moorthy",
+      "city": "Charlotte",
+      "zipCode": "28270",
+      "grade": "Architect",
+      "id": 17
+    },
+    {
+      "firstName": "Derek",
+      "lastName": "Sheperd",
+      "city": "Seattle",
+      "zipCode": "7636",
+      "grade": "Neuro Surgeon",
+      "id": 18
+    },
+    {
+      "firstName": "Jackson",
+      "lastName": "Avery",
+      "city": "Seattle",
+      "zipCode": "87897",
+      "grade": "Plastic Surgeon",
+      "id": 19
+    },
+    {
+      "firstName": "Lexie",
+      "lastName": "Grey",
+      "city": "New York",
+      "zipCode": "56578",
+      "grade": "General Surgeon",
+      "id": 20
+    },
+    {
+      "firstName": "April",
+      "lastName": "Kepner",
+      "city": "Dallas",
+      "zipCode": "57689",
+      "grade": "Pathologist",
+      "id": 21
+    },
+    {
+      "firstName": "Pratt",
+      "lastName": "Beaver",
+      "city": "Penang",
+      "zipCode": "717321",
+      "grade": "Fellow",
+      "id": 22
+    },
+    {
+      "firstName": "Ash",
+      "lastName": "Tanik",
+      "city": "Monaco",
+      "zipCode": "716711",
+      "grade": "Racer",
+      "id": 23
+    },
+    {
+      "firstName": "Taylor",
+      "lastName": "Hopkins",
+      "city": "Berkley",
+      "zipCode": "734638",
+      "grade": "Journalist",
+      "id": 24
+    }
+  ]
+}
